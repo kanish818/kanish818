@@ -79,13 +79,6 @@ Natural-language query agent for CSV files and SQL databases with read-only guar
 **Why it stands out:** Focus on safe querying and explainable results for data workflows  
 [Repository](https://github.com/kanish818/Deep-Query-Agent)
 
-### Anveshan-Onbaordin-Prototype
-Deterministic onboarding automation prototype that converts HR source files and policy rules into auditable action plans, escalations, and digest outputs.
-
-**Stack:** Python, Streamlit, rule-based workflow automation  
-**Why it stands out:** Strong emphasis on auditability, reproducibility, and operational usefulness  
-[Repository](https://github.com/kanish818/Anveshan-Onbaordin-Prototype)
-<!-- PROJECTS:END -->
 
 <!-- STATS:START -->
 ## GitHub snapshot
