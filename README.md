@@ -2,7 +2,7 @@
 
 CS final-year at TIET with internship experience across full stack, AI, and analytics. I build end-to-end products around GenAI, RAG, data systems, and practical business workflows.
 
-[![Portfolio](https://img.shields.io/badge/GitHub_Profile-kanish818-111827?style=for-the-badge&logo=github)](https://github.com/kanish818)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0C4A6E?style=for-the-badge)
@@ -22,9 +22,10 @@ CS final-year at TIET with internship experience across full stack, AI, and anal
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS ChromaDB](https://img.shields.io/badge/AWS_ChromaDB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/AgenticAI-9333EA?style=for-the-badge)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF100?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/GenAI-7C3AED?style=for-the-badge)
-![AgenticAI](https://img.shields.io/badge/AgenticAI-9333EA?style=for-the-badge)
+![Gen AI](https://img.shields.io/badge/GenAI-7C3AED?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/AgenticAI-9333EA?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-0F766E?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-1D4ED8?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge)
