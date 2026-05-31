@@ -1,0 +1,77 @@
+{
+  "generatedAt": "2026-05-31T17:40:00Z",
+  "username": "kanish818",
+  "displayName": "Kanish Mehan",
+  "sourceType": "public-profile-manual-bundle",
+  "confirmedProfileFacts": {
+    "bio": "CS final-year at TIET with 4+ months intern exp in Full Stack, AI & Analytics. Skilled in MERN, GenAI, RAG & PowerBI. Solved 400+ LeetCode. Building end-to-end.",
+    "location": "Gurugram",
+    "publicRepositories": 26,
+    "followers": 2,
+    "following": 8,
+    "achievements": ["YOLO", "Quickdraw"]
+  },
+  "highlightedProjects": [
+    {
+      "name": "AgriSense",
+      "url": "https://github.com/kanish818/AgriSense",
+      "primaryLanguage": "Jupyter Notebook",
+      "description": "Accessible agricultural assistance platform for farmers across India with multilingual voice-enabled support, crop recommendations, and financial guidance.",
+      "evidenceType": "pinned-profile-card"
+    },
+    {
+      "name": "LiteKite",
+      "url": "https://github.com/kanish818/LiteKite",
+      "primaryLanguage": "TypeScript",
+      "description": "Mock stock exchange application with real-time pricing, AI portfolio analysis, and virtual trading.",
+      "demoUrl": "https://lite-kite-1hag.vercel.app/",
+      "evidenceType": "pinned-profile-card-plus-readme"
+    },
+    {
+      "name": "AutoAnalyst-Agent",
+      "url": "https://github.com/kanish818/AutoAnalyst-Agent",
+      "primaryLanguage": "Python",
+      "description": "AI-powered data companion for multi-format dataset analysis with generated insights and visualizations.",
+      "evidenceType": "pinned-profile-card-plus-readme"
+    },
+    {
+      "name": "Analyst-Copilot",
+      "url": "https://github.com/kanish818/Analyst-Copilot",
+      "primaryLanguage": "Python",
+      "description": "Financial research PDF generator with confidence, source excerpt, and data-quality surfaces.",
+      "evidenceType": "repository-list-plus-readme"
+    },
+    {
+      "name": "Deep-Query-Agent",
+      "url": "https://github.com/kanish818/Deep-Query-Agent",
+      "primaryLanguage": "Python",
+      "description": "Natural-language querying for CSV and SQL data sources with read-only guardrails.",
+      "evidenceType": "pinned-profile-card-plus-readme"
+    },
+    {
+      "name": "Anveshan-Onbaordin-Prototype",
+      "url": "https://github.com/kanish818/Anveshan-Onbaordin-Prototype",
+      "primaryLanguage": "Python",
+      "description": "Deterministic onboarding automation prototype that generates auditable HR outputs from policy and CSV inputs.",
+      "evidenceType": "repository-list-plus-readme"
+    }
+  ],
+  "inferredSignals": {
+    "dominantPublicThemes": [
+      "AI agents",
+      "analytics automation",
+      "financial workflow tooling",
+      "full-stack product development"
+    ],
+    "languageMixByHighlightedProjectCount": {
+      "Python": 5,
+      "TypeScript": 2,
+      "Jupyter Notebook": 1
+    }
+  },
+  "warnings": [
+    "This bundle was produced without authenticated GitHub API access.",
+    "Language chart is based on highlighted project count, not byte-level repository language statistics.",
+    "Publishing to the special profile repository still requires GitHub authentication or a working Codex Chrome Extension session."
+  ]
+}
