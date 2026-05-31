@@ -15,7 +15,6 @@ CS final-year at TIET with internship experience across full stack, AI, and anal
 ## About
 
 - Based in Gurugram
-- Public GitHub profile currently shows `26` repositories, `2` followers, and `8` following
 - Current focus areas from public work: AI agents, data tooling, financial workflows, and full-stack product builds
 - Bio evidence: MERN, GenAI, RAG, Power BI, and end-to-end project delivery
 <!-- PROFILE:END -->
